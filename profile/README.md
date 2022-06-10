@@ -54,8 +54,9 @@
 
 <!-- Available Themes Previews -->
 
-<h2 align="center">Available Themes</h2>
 
+<details>
+   <summary><h2>Available Themes</h2></summary>
 </br>
 
 |Blade|CyberPunk|Hack|
@@ -81,5 +82,9 @@
 |Groot|Gruvbox|JapaneseCity|
 |--|--|--|
 | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/Groot.gif) | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/Gruvbox.gif) | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/JapaneseCity.gif) |
+
+</details>
+
+
 
 <!-- Available Themes Previews -->
