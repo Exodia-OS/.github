@@ -13,6 +13,7 @@
 <p align="center">
   
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-deeppink?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Exodia-OS/.github?style=for-the-badge&color=blueviolet">
   <img src="https://img.shields.io/github/issues/mmsaeed509/bspwm-dots?color=purple&style=for-the-badge">
   
 </p>
