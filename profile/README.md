@@ -4,7 +4,22 @@
   <img src="img/exodia-logo.png" height="200" width="200" alt="Exodia"></a>
 </p>
 
+</br>
+
 <!-- LOGO -->
+
+<!-- shields -->
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-deeppink?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/mmsaeed509/bspwm-dots?color=purple&style=for-the-badge">
+  
+</p>
+
+</br>
+
+<!-- shields -->
 
 <!-- distro description -->
 
