@@ -24,8 +24,8 @@
 
 <!-- distro description -->
 
-<h4 align="center">Exodia is a linux distro based on <a href="https://www.archlinux.org">Arch Linux</a>.</h4>
-<h4 align="center">inspired by <a href="https://www.wifislax.com/">Wifi-Slax</a> project, <a href="https://archcraft.io/">Archcraft</a> design, It will come with <a href="#available-editions">4 editions</a> and more editions will be added </h4>
+<h3 align="center">Exodia is a linux distro based on <a href="https://www.archlinux.org">Arch Linux</a>.</h3>
+<h3 align="center">inspired by <a href="https://www.wifislax.com/">Wifi-Slax</a> project, <a href="https://archcraft.io/">Archcraft</a> design, It will come with <a href="#available-editions">4 editions</a> and more editions will be added </h3>
 
 <!-- distro description -->
 
