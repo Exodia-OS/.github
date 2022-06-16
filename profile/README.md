@@ -58,7 +58,7 @@
 
 |Blade|CyberPunk|Hack|
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/Blade.gif) | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/CyberPunk.gif) | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/Hack.gif) |
+| ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/Blade.gif) | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/CyberPunk.gif) | ![](https://github.com/Exodia-OS/.github/blob/e8fb945492daf5ed545d72ef7c9572ac2b9704a7/profile/gif/Hack.gif) |
 
 |Rick|Hack The Box|Hack The Box Colored|
 |--|--|--|
