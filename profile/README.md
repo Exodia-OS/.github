@@ -43,7 +43,7 @@
 ### All Editions are under development, comes with [18 themes](#available-themes), You can use our dotfiles until the first release is published
 
 - [**`Puer Editions`**](https://github.com/Exodia-OS/exodia-pure)
-- [**`Home Editions`**](https://github.com/Exodia-OS/exodia-bspwm-ISO)
+- [**`Home Editions`**](https://github.com/Exodia-OS/exodia-home-ISO)
 - [**`Wireless Editions`**](https://github.com/Exodia-OS/exodia-wireless)
 - [**`Predator Editions`**](https://github.com/Exodia-OS/bspwm-Predator)
 
