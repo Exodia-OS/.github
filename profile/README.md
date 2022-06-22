@@ -30,7 +30,7 @@
 
 </br>
 
-![demo](https://github.com/Exodia-OS/.github/blob/2f7bb3eb39bc62d2ab48109bde0d51539e7887fe/profile/gif/themes.gif)
+![demo](https://github.com/Exodia-OS/.github/blob/29d907403f4e6ee7920a4f327b063fa0183ce307/profile/gif/themes.gif)
 
 </br>
 
