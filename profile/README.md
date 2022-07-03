@@ -74,7 +74,7 @@
 
 |AXYL|Amarena|Everblush|
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/AXYL.gif) | ![]() | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/Everblush.gif) |
+| ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/AXYL.gif) | ![](https://github.com/Exodia-OS/.github/blob/ce89a1000597bb71839478ebdefa37b926fec83d/profile/gif/Amarena.gif) | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/Everblush.gif) |
 
 |Groot|Gruvbox|JapaneseCity|
 |--|--|--|
