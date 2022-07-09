@@ -58,27 +58,27 @@
 
 |Blade|CyberPunk|Hack|
 |--|--|--|
-| ![]() | ![]() | ![]() |
+| ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/1.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/3.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/7.png) |
 
 |Rick|Hack The Box|Hack The Box Colored|
 |--|--|--|
-| ![]() | ![]() | ![]() |
+| ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/9.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/10.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/11.png) |
 
 |BlackArch|Neon|Tigger In Atlantis|
 |--|--|--|
-| ![]() | ![]() | ![]() |
+| ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/12.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/13.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/14.png) |
 
 |Bouquet|Emilia|Red And Black|
 |--|--|--|
-| ![]() | ![]() | ![]() |
+| ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/2.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/4.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/8.png) |
 
 |AXYL|Amarena|Everblush|
 |--|--|--|
-| ![]() | ![]() | ![]() |
+| ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/15.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/16.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/17.png) |
 
 |Groot|Gruvbox|JapaneseCity|
 |--|--|--|
-| ![]() | ![]() | ![]() |
+| ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/5.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/6.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/18.png) |
 
 </details>
 
