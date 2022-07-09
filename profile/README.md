@@ -30,7 +30,7 @@
 
 </br>
 
-![demo](https://github.com/Exodia-OS/.github/blob/d8ff306ff279349353ec1c393093aa011dc16fb6/profile/gif/themes.gif)
+![demo](https://github.com/Exodia-OS/.github/blob/c85d19487d7a5b9555c7fba0f1fcc0d911e5933a/profile/gif/DEMO.gif)
 
 </br>
 
@@ -58,27 +58,27 @@
 
 |Blade|CyberPunk|Hack|
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/Blade.gif) | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/CyberPunk.gif) | ![](https://github.com/Exodia-OS/.github/blob/e8fb945492daf5ed545d72ef7c9572ac2b9704a7/profile/gif/Hack.gif) |
+| ![]() | ![]() | ![]() |
 
 |Rick|Hack The Box|Hack The Box Colored|
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/Rick.gif) | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/HackTheBox.gif) | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/HackTheBoxColored.gif) |
+| ![]() | ![]() | ![]() |
 
 |BlackArch|Neon|Tigger In Atlantis|
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/BlackArch.gif) | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/Neon.gif) | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/TiggerInAtlantis.gif) |
+| ![]() | ![]() | ![]() |
 
 |Bouquet|Emilia|Red And Black|
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/Bouquet.gif) | ![](https://github.com/Exodia-OS/.github/blob/d8ff306ff279349353ec1c393093aa011dc16fb6/profile/gif/Emilia.gif) | ![](https://github.com/Exodia-OS/.github/blob/42792d05b01d39c03027d71e0e275fed27a06380/profile/gif/RedAndBlack.gif) |
+| ![]() | ![]() | ![]() |
 
 |AXYL|Amarena|Everblush|
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/AXYL.gif) | ![](https://github.com/Exodia-OS/.github/blob/d8ff306ff279349353ec1c393093aa011dc16fb6/profile/gif/Amarena.gif) | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/Everblush.gif) |
+| ![]() | ![]() | ![]() |
 
 |Groot|Gruvbox|JapaneseCity|
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/Groot.gif) | ![](https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/gif/Gruvbox.gif) | ![](https://github.com/Exodia-OS/.github/blob/6351ca12a5acc7b663ff7099844a0d9291e4b978/profile/gif/JapaneseCity.gif) |
+| ![]() | ![]() | ![]() |
 
 </details>
 
