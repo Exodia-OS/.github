@@ -30,7 +30,7 @@
 
 </br>
 
-![demo](https://github.com/Exodia-OS/.github/blob/c85d19487d7a5b9555c7fba0f1fcc0d911e5933a/profile/gif/DEMO.gif)
+![demo](https://github.com/Exodia-OS/.github/blob/698e607384608e36f14059fd08e380d1ddc69808/profile/gif/view.gif)
 
 </br>
 
@@ -40,7 +40,7 @@
 
 ## Available Editions
 
-### All Editions are under development, comes with [18 themes](#available-themes), You can use our dotfiles until the first release is published
+### All Editions are under development, comes with [12 themes](#available-themes), You can use our dotfiles until the first release is published
 
 - [**`Puer Editions`**](https://github.com/Exodia-OS/exodia-pure)
 - [**`Home Editions`**](https://github.com/Exodia-OS/exodia-home-ISO)
@@ -56,29 +56,23 @@
    <summary><h2>Available Themes</h2></summary>
 </br>
 
-|Blade|CyberPunk|Hack|
+|Red Jungles|Emilia|Gruvbox|
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/1.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/3.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/7.png) |
+| ![](https://github.com/Exodia-OS/.github/blob/698e607384608e36f14059fd08e380d1ddc69808/profile/gif/Red-Jungles.png) | ![](https://github.com/Exodia-OS/.github/blob/698e607384608e36f14059fd08e380d1ddc69808/profile/gif/Emilia.png) | ![](https://github.com/Exodia-OS/.github/blob/698e607384608e36f14059fd08e380d1ddc69808/profile/gif/Gruvbox.png) |
 
-|Rick|Hack The Box|Hack The Box Colored|
+|Hack|Red and Black|Rick|
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/9.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/10.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/11.png) |
+| ![](https://github.com/Exodia-OS/.github/blob/698e607384608e36f14059fd08e380d1ddc69808/profile/gif/Hack.png) | ![](https://github.com/Exodia-OS/.github/blob/698e607384608e36f14059fd08e380d1ddc69808/profile/gif/Red-And-Black.png) | ![](https://github.com/Exodia-OS/.github/blob/698e607384608e36f14059fd08e380d1ddc69808/profile/gif/Rick.png) |
 
-|BlackArch|Neon|Tigger In Atlantis|
+|Hack The Box|BlackArch|Neon|
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/12.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/13.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/14.png) |
+| ![](https://github.com/Exodia-OS/.github/blob/698e607384608e36f14059fd08e380d1ddc69808/profile/gif/Hack-The-Box.png) | ![](https://github.com/Exodia-OS/.github/blob/698e607384608e36f14059fd08e380d1ddc69808/profile/gif/BlackArch.png) | ![](https://github.com/Exodia-OS/.github/blob/698e607384608e36f14059fd08e380d1ddc69808/profile/gif/Neon.png) |
 
-|Bouquet|Emilia|Red And Black|
+|AXYL|Amarena|JapaneseCity|
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/2.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/4.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/8.png) |
+| ![](https://github.com/Exodia-OS/.github/blob/698e607384608e36f14059fd08e380d1ddc69808/profile/gif/AXYL.png) | ![](https://github.com/Exodia-OS/.github/blob/698e607384608e36f14059fd08e380d1ddc69808/profile/gif/Amarena.png) | ![](https://github.com/Exodia-OS/.github/blob/698e607384608e36f14059fd08e380d1ddc69808/profile/gif/JapaneseCity.png) |
 
-|AXYL|Amarena|Everblush|
-|--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/15.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/16.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/17.png) |
 
-|Groot|Gruvbox|JapaneseCity|
-|--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/5.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/6.png) | ![](https://github.com/Exodia-OS/.github/blob/c6d91d86340e94d65ef0b49edcdceaf3bb4722d9/profile/gif/18.png) |
 
 </details>
 
