@@ -58,23 +58,23 @@
 
 |Red Jungles|Emilia|Chad WM|
 |--|--|--|
-| ![](GIFs/RedJungles.gif) | ![](GIFs/Emilia.gif) | ![](GIFs/ChadWM.gif) |
+| ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/RedJungles.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/Emilia.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/ChadWM.gif) |
 
 |Hack|Red and Black|Rick|
 |--|--|--|
-| ![](GIFs/Hack.gif) | ![](GIFs/RedandBlack.gif) | ![](GIFs/Rick.gif) |
+| ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/Hack.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/RedandBlack.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/Rick.gif) |
 
 |Hack The Box|BlackArch|Neon|
 |--|--|--|
-| ![](GIFs/HackTheBox.gif) | ![](GIFs/BlackArch.gif) | ![](GIFs/Neon.gif) |
+| ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/HackTheBox.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/BlackArch.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/Neon.gif) |
 
 |JS coffee|Amarena|
 |--|--|
-| ![](GIFs/JScoffee.gif) | ![](GIFs/Amarena.gif) |
+| ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/JScoffee.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/Amarena.gif) |
 
 |JapaneseCity|VALORANT|
 |--|--|
-| ![](GIFs/JapaneseCity.gif) | ![](GIFs/VALORANT.gif) |
+| ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/JapaneseCity.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/VALORANT.gif) |
 
 
 </details>
