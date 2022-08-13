@@ -1,8 +1,9 @@
 <!-- LOGO -->
 
 <p align="center">
-  <img src="https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/img/exodia-logo.png" height="200" width="200" alt="Exodia"></a>
+  <a href="https://github.com/Exodia-OS"><img src="https://github.com/Exodia-OS/.github/blob/8ea8809a8b8b7a4d8e54c3ef2b88f6be5e34afdb/profile/img/exodia-logo.png" height="200" width="200" alt="Exodia"></a>
 </p>
+
 
 </br>
 
