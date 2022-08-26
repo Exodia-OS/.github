@@ -33,7 +33,7 @@
 
 </br>
 
-![demo](https://github.com/Exodia-OS/.github/blob/cdcaf77bda34c535754c51a27f41e1d03d041c51/profile/GIFs/themes.gif)
+![demo](https://github.com/Exodia-OS/.github/blob/fe88c5d21d547ac47074f249d7ceafb50757008c/profile/img/JapaneseCity.png)
 
 </br>
 
