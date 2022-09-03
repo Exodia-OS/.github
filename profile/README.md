@@ -71,13 +71,13 @@
 |--|--|--|
 | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/HackTheBox.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/BlackArch.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/Neon.gif) |
 
+|Japanese City|VALORANT|Tokyo City |
+|--|--|--|
+| ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/JapaneseCity.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/VALORANT.gif) | ![](https://github.com/Exodia-OS/.github/blob/8efe9da2bc087ddabb6f88f1f45465694c8ed455/profile/GIFs/TokyoCity.gif) |
+
 |JS coffee|Amarena|
 |--|--|
 | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/JScoffee.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/Amarena.gif) |
-
-|JapaneseCity|VALORANT|
-|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/JapaneseCity.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/VALORANT.gif) |
 
 
 </details>
