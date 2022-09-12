@@ -69,7 +69,7 @@
 
 |Hack The Box|BlackArch|Neon|
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/HackTheBox.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/BlackArch.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/Neon.gif) |
+| ![](https://github.com/Exodia-OS/.github/blob/8630d7701a50ee004effb8a584cb726037a47d51/profile/GIFs/HackTheBox.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/BlackArch.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/Neon.gif) |
 
 |Japanese City|VALORANT|Tokyo City |
 |--|--|--|
