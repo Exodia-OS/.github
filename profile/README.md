@@ -25,7 +25,7 @@
 
 <!-- distro description -->
 
-<h3 align="center">Exodia is a linux distro based on <a href="https://www.archlinux.org">Arch Linux</a> </br> It will come with <a href="#available-editions">4 editions</a> and more editions will be added </h3>
+<h3 align="center">Exodia is a linux distro based on <a href="https://www.archlinux.org">Arch Linux</a> </br> It will come with <a href="#available-editions">3 editions</a> and more editions will be added </h3>
 
 <!-- distro description -->
 
@@ -43,12 +43,11 @@
 
 ## Available Editions
 
-### All Editions are under Testing, comes with [13 themes](#available-themes), You can use our dotfiles until the first release is published
+### All Editions are under Testing, comes with [13+ themes](#available-themes), You can use our dotfiles until the first release is published
 
-- [**`Puer Editions`**](https://github.com/Exodia-OS/exodia-pure)
 - [**`Home Editions`**](https://github.com/Exodia-OS/exodia-home-ISO)
-- [**`Wireless Editions`**](https://github.com/Exodia-OS/exodia-wireless)
-- [**`Predator Editions`**](https://github.com/Exodia-OS/bspwm-Predator)
+- [**`Wireless Editions`**](https://github.com/Exodia-OS/exodia-wireless-ISO)
+- [**`Predator Editions`**](https://github.com/Exodia-OS/exodia-predator-ISO)
 
 <!-- Available Editions -->
 
