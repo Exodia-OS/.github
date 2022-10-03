@@ -9,6 +9,12 @@
 
 <!-- LOGO -->
 
+<!-- distro description -->
+
+<h3 align="center">Exodia is a linux distro based on <a href="https://www.archlinux.org">Arch Linux</a> </br> It will come with <a href="#available-editions">3 editions</a> and more editions will be added </h3>
+
+<!-- distro description -->
+
 <!-- shields -->
 
 <p align="center">
@@ -27,12 +33,6 @@
 </p>
 
 <!-- shields -->
-
-<!-- distro description -->
-
-<h3 align="center">Exodia is a linux distro based on <a href="https://www.archlinux.org">Arch Linux</a> </br> It will come with <a href="#available-editions">3 editions</a> and more editions will be added </h3>
-
-<!-- distro description -->
 
 <!-- distro demo -->
 
