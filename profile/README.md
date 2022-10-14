@@ -9,9 +9,9 @@
 <!-- shields -->
 
 <p align="center">
-  <a href="https://github.com/Exodia-OS/exodia-home-ISO" target="_blank"><img alt="Exodia Home" src="https://img.shields.io/github/issues/Exodia-OS/exodia-home-ISO/issues?color=purple&style=for-the-badge"></a>
-  <a href="https://github.com/Exodia-OS/exodia-predator-ISO" target="_blank"><img alt="Exodia Predator" src="https://img.shields.io/github/issues/Exodia-OS/exodia-predator-ISO/issues?color=06CCD7&style=for-the-badge"></a>
-  <a href="https://github.com/Exodia-OS/exodia-wireless-ISO" target="_blank"><img alt="Exodia Wireless" src="https://img.shields.io/github/issues/Exodia-OS/exodia-wireless-ISO/issues?color=0078E3&style=for-the-badge"></a>
+  <a href="https://github.com/Exodia-OS/exodia-home-ISO" target="_blank"><img alt="Exodia Home" src="https://img.shields.io/github/issues/Exodia-OS/exodia-home-ISO?color=purple&style=for-the-badge"></a>
+  <a href="https://github.com/Exodia-OS/exodia-predator-ISO" target="_blank"><img alt="Exodia Predator" src="https://img.shields.io/github/issues/Exodia-OS/exodia-predator-ISO?color=06CCD7&style=for-the-badge"></a>
+  <a href="https://github.com/Exodia-OS/exodia-wireless-ISO" target="_blank"><img alt="Exodia Wireless" src="https://img.shields.io/github/issues/Exodia-OS/exodia-wireless-ISO?color=0078E3&style=for-the-badge"></a>
 
   
   <br/>
