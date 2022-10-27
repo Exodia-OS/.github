@@ -51,9 +51,9 @@
 
 ### All Editions are under Testing, comes with [13+ themes](#available-themes), You can use our dotfiles until the first release is published
 
-- [**`Home Editions`**](https://github.com/Exodia-OS/exodia-home-ISO)
-- [**`Wireless Editions`**](https://github.com/Exodia-OS/exodia-wireless-ISO)
-- [**`Predator Editions`**](https://github.com/Exodia-OS/exodia-predator-ISO)
+- [**`Home Editions`**](https://github.com/Exodia-OS/exodia-home-ISO) 
+- [**`Wireless Editions`**](https://github.com/Exodia-OS/exodia-wireless-ISO) (under dev, coming soon)
+- [**`Predator Editions`**](https://github.com/Exodia-OS/exodia-predator-ISO) (under dev, coming soon)
 
 <!-- Available Editions -->
 
