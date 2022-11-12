@@ -29,7 +29,7 @@
 
 </br>
 
-![demo](https://github.com/Exodia-OS/.github/blob/ab345cd560209de4e60d1a6dec425852d1839320/profile/img/desktop.png)
+![demo](https://github.com/Exodia-OS/.github/blob/2fce1f789d21c7fd8dfadee0a35bf3c404d6630f/profile/img/desktop.png)
 
 </br>
 
