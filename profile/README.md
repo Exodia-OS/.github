@@ -60,34 +60,34 @@
 
 <!-- Available Themes Previews -->
 
-
 <details>
    <summary><h2>Available Themes</h2></summary>
 </br>
 
-|Red Jungles|Emilia|Chad WM|
+| Red Jungles | Emilia | Chad WM |
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/RedJungles.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/Emilia.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/ChadWM.gif) |
+| ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/RedJungles.gif) | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/Emilia.gif) | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/ChadWM.gif) |
 
-|Hack|Red and Black|Rick|
+| Hack | Black And Red | Rick |
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/Hack.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/RedandBlack.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/Rick.gif) |
+| ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/Hack.gif) | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/BlackRed.gif) | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/Rick.gif) |
 
-|Hack The Box|BlackArch|Neon|
+| Hack The Box | BlackArch | Neon |
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/8630d7701a50ee004effb8a584cb726037a47d51/profile/GIFs/HackTheBox.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/BlackArch.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/Neon.gif) |
+| ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/HackTheBox.gif) | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/BlackArch.gif) | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/Neon.gif) |
 
-|Japanese City|VALORANT|Tokyo City |
+| JS Coffee | Amarena | Japanese City |
 |--|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/JapaneseCity.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/VALORANT.gif) | ![](https://github.com/Exodia-OS/.github/blob/8efe9da2bc087ddabb6f88f1f45465694c8ed455/profile/GIFs/TokyoCity.gif) |
+| ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/JSCoffee.gif) | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/Amarena.gif) | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/JapaneseCity.gif) |
 
-|JS coffee|Amarena|
-|--|--|
-| ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/JScoffee.gif) | ![](https://github.com/Exodia-OS/.github/blob/a68c8d3660100b01dc034466dbdc067b00b3fe9c/profile/GIFs/Amarena.gif) |
+| Tokyo City | VALORANT | Melissa |
+|--|--|--|
+| ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/TokyoCity.gif) | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/VALORANT.gif) | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/Melissa.gif) |
 
+| Cristina | Pamela | CyberPunk |
+|--|--|--|
+| ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/Cristina.gif) | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/Pamela.gif) | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/CyberPunk.gif) |
 
 </details>
-
-
 
 <!-- Available Themes Previews -->
