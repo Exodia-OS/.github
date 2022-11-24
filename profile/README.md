@@ -25,6 +25,22 @@
 
 <!-- shields -->
 
+<!-- shields Download -->
+  <br/>
+
+<p align="center">
+<a href="https://fosstorrents.com/distributions/exodia-os/" target="_blank"><img alt="FOSS Torrents" src="https://img.shields.io/badge/Download-FOSS%20Torrents-05122A?style=for-the-badge&color=A700E8"></a>
+  <a href="https://sourceforge.net/projects/exodia-releases/files/" target="_blank"><img alt="sourceforge" src="https://img.shields.io/badge/Download-sourceforge-05122A?style=for-the-badge&color=A700E8"></a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1fHboN_4K0c6mpO4ed4Ub71Reo-9q68N5/view?usp=share_link" target="_blank"><img alt="Exodia Home" src="https://img.shields.io/badge/Download-Home%20Edition-05122A?style=for-the-badge&color=purple"></a>
+  <a href="https://drive.google.com/file/d/1UrsFFADkVrada_s0IJo_BjlgeT3Q36tn/view?usp=share_link" target="_blank"><img alt="Exodia Predator" src="https://img.shields.io/badge/Download-Predator%20Edition-05122A?style=for-the-badge&color=06CCD7"></a>
+  <a href="https://github.com/Exodia-OS/exodia-wireless-ISO" target="_blank"><img alt="Exodia Wireless" src="https://img.shields.io/badge/Download-Wireless%20Edition-05122A?style=for-the-badge&color=0078E3"></a>
+</p>
+
+<!-- shields Download -->
+
 <!-- distro demo -->
 
 </br>
