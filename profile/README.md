@@ -36,7 +36,7 @@
 <p align="center">
   <a href="https://drive.google.com/file/d/187W3tQGvdGKPIHtuPNm6xDITaMq1ep5F/view?usp=share_link" target="_blank"><img alt="Exodia Home" src="https://img.shields.io/badge/Download-Home%20Edition-05122A?style=for-the-badge&color=purple"></a>
   <a href="https://drive.google.com/file/d/1sq3Hte3XRIsHnfMezKL0332aVpeLGGjS/view?usp=share_link" target="_blank"><img alt="Exodia Predator" src="https://img.shields.io/badge/Download-Predator%20Edition-05122A?style=for-the-badge&color=06CCD7"></a>
-  <a href="https://github.com/Exodia-OS/exodia-wireless-ISO" target="_blank"><img alt="Exodia Wireless" src="https://img.shields.io/badge/Download-Wireless%20Edition-05122A?style=for-the-badge&color=0078E3"></a>
+  <a href="https://drive.google.com/file/d/109FCcl73RjF2pH_o9jS76NrIbWhKdje6/view?usp=share_link" target="_blank"><img alt="Exodia Wireless" src="https://img.shields.io/badge/Download-Wireless%20Edition-05122A?style=for-the-badge&color=0078E3"></a>
 </p>
 
 <!-- shields Download -->
@@ -69,7 +69,7 @@
 
 - [**`Home Editions`**](https://github.com/Exodia-OS/exodia-home-ISO) 
 - [**`Predator Editions`**](https://github.com/Exodia-OS/exodia-predator-ISO)
-- [**`Wireless Editions`**](https://github.com/Exodia-OS/exodia-wireless-ISO) (under dev, coming soon)
+- [**`Wireless Editions`**](https://github.com/Exodia-OS/exodia-wireless-ISO)
 
 
 <!-- Available Editions -->
