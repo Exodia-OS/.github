@@ -10,20 +10,23 @@
 
 <img src="https://github.com/Exodia-OS/.github/blob/e1ab4df119651217467731aef92f97226d5c193a/profile/GIFs/logos.gif" alt="wolf" align="right" width="250px" height="250" >
 
-- [![HOME: EDITION](https://img.shields.io/badge/Download-Home-05122A?style=for-the-badge&color=purple)](https://drive.google.com/file/d/187W3tQGvdGKPIHtuPNm6xDITaMq1ep5F/view?usp=share_link)
-[![HOME: PREDATOR](https://img.shields.io/badge/Download-Predator-05122A?style=for-the-badge&color=06CCD7)](https://drive.google.com/file/d/1sq3Hte3XRIsHnfMezKL0332aVpeLGGjS/view?usp=share_link) 
-[![HOME: WIRELESS](https://img.shields.io/badge/Download-Wireless-05122A?style=for-the-badge&color=0078E3)](https://drive.google.com/file/d/109FCcl73RjF2pH_o9jS76NrIbWhKdje6/view?usp=share_link) 
-- [![FOSS: DOWNLOAD](https://img.shields.io/badge/Download-FOSS%20Torrents-05122A?style=for-the-badge&color=5443B8)](https://fosstorrents.com/distributions/exodia-os/)
-[![SOURCEFORGE: DOWNLOAD](https://img.shields.io/badge/Download-sourceforge-05122A?style=for-the-badge&color=FF6600)](https://sourceforge.net/projects/exodia-releases/files/)
-[![MEGA: DOWNLOAD](https://img.shields.io/badge/Download-MEGA-05122A?style=for-the-badge&color=DE040B)](https://mega.nz/folder/Uy4m3TpR#kRo4AMlQ4M0c_ZuM2leaig)
-
- - [![Home : ISSUES](https://img.shields.io/github/issues/Exodia-OS/exodia-home-ISO?color=purple&style=for-the-badge)](https://github.com/Exodia-OS/exodia-home-ISO/issues)
-[![ : ISSUES](https://img.shields.io/github/issues/Exodia-OS/exodia-predator-ISO?color=06CCD7&style=for-the-badge)](https://github.com/Exodia-OS/exodia-predator-ISO/issues)
-[![ : ISSUES](https://img.shields.io/github/issues/Exodia-OS/exodia-wireless-ISO?color=0078E3&style=for-the-badge)](https://github.com/Exodia-OS/exodia-wireless-ISO/issues)
 - ![](https://img.shields.io/badge/Maintained%3F-Yes-deeppink?style=for-the-badge)
 ![](https://img.shields.io/github/followers/Exodia-OS?style=for-the-badge&color=E070EF)
 ![](https://img.shields.io/github/license/Exodia-OS/.github?style=for-the-badge&color=blueviolet)
 ![](https://img.shields.io/github/stars/Exodia-OS?style=for-the-badge&color=2D0073)
+
+- [![Home : ISSUES](https://img.shields.io/github/issues/Exodia-OS/exodia-home-ISO?color=purple&style=for-the-badge)](https://github.com/Exodia-OS/exodia-home-ISO/issues)
+[![ : ISSUES](https://img.shields.io/github/issues/Exodia-OS/exodia-predator-ISO?color=06CCD7&style=for-the-badge)](https://github.com/Exodia-OS/exodia-predator-ISO/issues)
+[![ : ISSUES](https://img.shields.io/github/issues/Exodia-OS/exodia-wireless-ISO?color=0078E3&style=for-the-badge)](https://github.com/Exodia-OS/exodia-wireless-ISO/issues)
+
+- [![HOME: EDITION](https://img.shields.io/badge/Download-Home-05122A?style=for-the-badge&color=purple)](https://drive.google.com/file/d/187W3tQGvdGKPIHtuPNm6xDITaMq1ep5F/view?usp=share_link)
+[![HOME: PREDATOR](https://img.shields.io/badge/Download-Predator-05122A?style=for-the-badge&color=06CCD7)](https://drive.google.com/file/d/1sq3Hte3XRIsHnfMezKL0332aVpeLGGjS/view?usp=share_link) 
+[![HOME: WIRELESS](https://img.shields.io/badge/Download-Wireless-05122A?style=for-the-badge&color=0078E3)](https://drive.google.com/file/d/109FCcl73RjF2pH_o9jS76NrIbWhKdje6/view?usp=share_link) 
+
+- [![FOSS: DOWNLOAD](https://img.shields.io/badge/Download-FOSS%20Torrents-05122A?style=for-the-badge&color=5443B8)](https://fosstorrents.com/distributions/exodia-os/)
+[![SOURCEFORGE: DOWNLOAD](https://img.shields.io/badge/Download-sourceforge-05122A?style=for-the-badge&color=FF6600)](https://sourceforge.net/projects/exodia-releases/files/)
+[![MEGA: DOWNLOAD](https://img.shields.io/badge/Download-MEGA-05122A?style=for-the-badge&color=DE040B)](https://mega.nz/folder/Uy4m3TpR#kRo4AMlQ4M0c_ZuM2leaig)
+
 - ### User : `liveuser` , Password : `exodia`
 
 <br/>
