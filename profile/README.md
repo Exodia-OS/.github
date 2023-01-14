@@ -1,8 +1,8 @@
 <!-- distro demo -->
-<img src="https://github.com/Exodia-OS/.github/blob/2fce1f789d21c7fd8dfadee0a35bf3c404d6630f/profile/img/desktop.png" alt="demo" width="1000" height="500" >
+<img src="https://github.com/Exodia-OS/.github/blob/2fce1f789d21c7fd8dfadee0a35bf3c404d6630f/profile/img/desktop.png" alt="demo" width="1000" height="400" >
 <!-- distro demo -->
 
-<h4 align="center">  <a href="https://exodia-os.github.io/exodia-website/">Exodia OS</a> : A highly customized arch-based distro For All Cybersecurity fields, and it comes with other <a href="#available-editions">special editions</a> as well. Developed by: Cyb3rTh1eveZ Team </h4>
+<h3 align="center">  <a href="https://exodia-os.github.io/exodia-website/">Exodia OS</a> : A highly customized arch-based distro For All Cybersecurity fields, and it comes with other <a href="#available-editions">special editions</a> as well. Developed by: Cyb3rTh1eveZ Team </h3>
 
 <!-- LOGO -->
 
