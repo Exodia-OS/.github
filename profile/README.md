@@ -35,7 +35,7 @@
 
 ## Available Editions
 
-### All Editions are under Testing, comes with [18 themes](#available-themes), You can use our dotfiles until the first release is published
+### All Editions are under Testing, comes with [20 themes](#available-themes), You can use our dotfiles until the first release is published
 
 - [**`Home Editions`**](https://github.com/Exodia-OS/exodia-home-ISO) 
 - [**`Predator Editions`**](https://github.com/Exodia-OS/exodia-predator-ISO)
@@ -47,8 +47,12 @@
 <!-- Available Themes Previews -->
 
 <details>
-   <summary><h2>Available Themes</h2></summary>
+   <summary><h2>Available Themes (bspwm)</h2></summary>
 </br>
+
+| Exodia | A Hacker Den |
+|--|--|--|
+| ![](https://github.com/Exodia-OS/.github/blob/a9c737a28a359543811d2353d7d25cc07056ffb1/profile/img/exodia.png) | ![](https://github.com/Exodia-OS/.github/blob/a9c737a28a359543811d2353d7d25cc07056ffb1/profile/img/Hacker.png) |
 
 | Red Jungles | Emilia | Chad WM |
 |--|--|--|
@@ -73,6 +77,28 @@
 | Cristina | Pamela | CyberPunk |
 |--|--|--|
 | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/Cristina.gif) | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/Pamela.gif) | ![](https://github.com/Exodia-OS/.github/blob/4ee052ab62c253845deb7d9b5ff2d0618cf7d8e9/profile/GIFs/CyberPunk.gif) |
+
+</details>
+
+<!-- Available Themes Previews -->
+
+
+
+
+<details>
+   <summary><h2>Available Themes (DWM)</h2></summary>
+</br>
+
+![](https://github.com/Exodia-OS/.github/blob/1f05652be9d765b9f1131c3ac5de7baaf346d4e4/profile/DWM/exodia-dwm.gif)
+
+|  |  |
+|--|--|
+| ![](https://github.com/Exodia-OS/.github/blob/1f05652be9d765b9f1131c3ac5de7baaf346d4e4/profile/DWM/1.png) | ![](https://github.com/Exodia-OS/.github/blob/1f05652be9d765b9f1131c3ac5de7baaf346d4e4/profile/DWM/2.png) |
+
+
+| ![](https://github.com/Exodia-OS/.github/blob/1f05652be9d765b9f1131c3ac5de7baaf346d4e4/profile/DWM/3.png) | ![](https://github.com/Exodia-OS/.github/blob/1f05652be9d765b9f1131c3ac5de7baaf346d4e4/profile/DWM/4.png) | ![](https://github.com/Exodia-OS/.github/blob/1f05652be9d765b9f1131c3ac5de7baaf346d4e4/profile/DWM/5.png) |
+|--|--|--|
+| ![](https://github.com/Exodia-OS/.github/blob/1f05652be9d765b9f1131c3ac5de7baaf346d4e4/profile/DWM/6.png) | ![](https://github.com/Exodia-OS/.github/blob/1f05652be9d765b9f1131c3ac5de7baaf346d4e4/profile/DWM/7.png) | ![](https://github.com/Exodia-OS/.github/blob/1f05652be9d765b9f1131c3ac5de7baaf346d4e4/profile/DWM/8.png) |
 
 </details>
 
