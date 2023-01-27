@@ -51,7 +51,7 @@
 </br>
 
 | Exodia | A Hacker Den |
-|--|--|--|
+|--|--|
 | ![](https://github.com/Exodia-OS/.github/blob/a9c737a28a359543811d2353d7d25cc07056ffb1/profile/img/exodia.png) | ![](https://github.com/Exodia-OS/.github/blob/a9c737a28a359543811d2353d7d25cc07056ffb1/profile/img/Hacker.png) |
 
 | Red Jungles | Emilia | Chad WM |
