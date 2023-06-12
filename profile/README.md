@@ -46,7 +46,7 @@
 
 </br>
 
-![demo](https://github.com/Exodia-OS/.github/blob/aa18a47e850184d0913bbde561c9643698836dfc/profile/img/desktop.png)
+![demo](https://github.com/Exodia-OS/.github/blob/c98ab5afd18776c57fd74081cd234b35b1a1bd74/profile/img/desktop.png)
 
 </br>
 
