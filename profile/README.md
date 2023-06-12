@@ -66,7 +66,7 @@
 
 ## Available Editions
 
-### All Editions are under Testing, comes with [20 themes](#available-themes), You can use our dotfiles until the first release is published
+### All Editions are under Testing, comes with more than [15+ themes](#available-themes), You can use our dotfiles until the first release is published
 
 - [**`Home Editions`**](https://github.com/Exodia-OS/exodia-home-ISO) 
 - [**`Predator Editions`**](https://github.com/Exodia-OS/exodia-predator-ISO)
