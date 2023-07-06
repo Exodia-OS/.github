@@ -6,6 +6,12 @@
 
 <!-- LOGO -->
 
+<p align="center">
+
+  <img src="https://img.shields.io/sourceforge/dt/exodia-releases?label=downloads&logo=sourceforge&color=teal&style=flat-square">
+  
+</p>
+
 <!-- shields -->
 
 <p align="center">
