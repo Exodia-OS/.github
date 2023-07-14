@@ -41,9 +41,9 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/187W3tQGvdGKPIHtuPNm6xDITaMq1ep5F/view?usp=share_link" target="_blank"><img alt="Exodia Home" src="https://img.shields.io/badge/Download-Home%20Edition-05122A?style=for-the-badge&color=purple"></a>
-  <a href="https://drive.google.com/file/d/1sq3Hte3XRIsHnfMezKL0332aVpeLGGjS/view?usp=share_link" target="_blank"><img alt="Exodia Predator" src="https://img.shields.io/badge/Download-Predator%20Edition-05122A?style=for-the-badge&color=06CCD7"></a>
-  <a href="https://drive.google.com/file/d/109FCcl73RjF2pH_o9jS76NrIbWhKdje6/view?usp=share_link" target="_blank"><img alt="Exodia Wireless" src="https://img.shields.io/badge/Download-Wireless%20Edition-05122A?style=for-the-badge&color=0078E3"></a>
+  <a href="https://drive.google.com/drive/folders/1R5bZhI8yGfr9Z3Xq_QWnUIK1qvh42a2_?usp=sharing" target="_blank"><img alt="Exodia Home" src="https://img.shields.io/badge/Download-Home%20Edition-05122A?style=for-the-badge&color=purple"></a>
+  <a href="https://drive.google.com/drive/folders/1RHyGWLOTf4mtoVpHpGzNOJRZ8UnZI2PR?usp=sharing" target="_blank"><img alt="Exodia Predator" src="https://img.shields.io/badge/Download-Predator%20Edition-05122A?style=for-the-badge&color=06CCD7"></a>
+  <a href="https://drive.google.com/drive/folders/1i5AJHBkvmYWlCWQYHKKSlFv5ogmnyW5b?usp=sharing" target="_blank"><img alt="Exodia Wireless" src="https://img.shields.io/badge/Download-Wireless%20Edition-05122A?style=for-the-badge&color=0078E3"></a>
 </p>
 
 <!-- shields Download -->
