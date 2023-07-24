@@ -37,7 +37,11 @@
 <p align="center">
 <a href="https://fosstorrents.com/distributions/exodia-os/" target="_blank"><img alt="FOSS Torrents" src="https://img.shields.io/badge/Download-FOSS%20Torrents-05122A?style=for-the-badge&color=5443B8"></a>
   <a href="https://sourceforge.net/projects/exodia-releases/files/" target="_blank"><img alt="sourceforge" src="https://img.shields.io/badge/Download-sourceforge-05122A?style=for-the-badge&color=FF6600"></a>
-  <a href="https://mega.nz/folder/Uy4m3TpR#kRo4AMlQ4M0c_ZuM2leaig" target="_blank"><img alt="sourceforge" src="https://img.shields.io/badge/Download-MEGA-05122A?style=for-the-badge&color=DE040B"></a>
+
+  <!--
+  <a href="https://mega.nz/folder/Uy4m3TpR#kRo4AMlQ4M0c_ZuM2leaig" target="_blank"><img alt="MEGA" src="https://img.shields.io/badge/Download-MEGA-05122A?style=for-the-badge&color=DE040B"></a>
+  -->
+  
 </p>
 
 <p align="center">
