@@ -1,4 +1,4 @@
-<h1 align="center"> We stand with Palestine  Free Palestine 🇵🇸 </h1>
+<h1 align="center"> We stand with Palestine ❤️ Free Palestine 🇵🇸 </h1>
 <!-- LOGO -->
 
 <p align="center">
