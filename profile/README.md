@@ -9,10 +9,14 @@
 <!-- LOGO -->
 
 <p align="center">
-
-  <img src="https://img.shields.io/sourceforge/dt/exodia-releases?label=downloads&logo=sourceforge&color=teal&style=flat-square">
-  
+  <a href="https://ko-fi.com/mmsaeed509" target="_blank"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--Fi-0DBBFF?style=flat&logo=kofi&logoColor=FFFFFF"></a>
 </p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/sourceforge/dt/exodia-releases?label=downloads&logo=sourceforge&color=teal&style=flat-square">
+</p>
+
 
 <!-- shields -->
 
@@ -21,7 +25,6 @@
   <a href="https://github.com/Exodia-OS/exodia-predator-ISO" target="_blank"><img alt="Exodia Predator" src="https://img.shields.io/github/issues/Exodia-OS/exodia-predator-ISO?color=06CCD7&style=for-the-badge"></a>
   <a href="https://github.com/Exodia-OS/exodia-wireless-ISO" target="_blank"><img alt="Exodia Wireless" src="https://img.shields.io/github/issues/Exodia-OS/exodia-wireless-ISO?color=0078E3&style=for-the-badge"></a>
 
-  
   <br/>
   
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-deeppink?style=for-the-badge">
