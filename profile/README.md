@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://exodia-os.github.io/exodia-website/"><img src="https://github.com/Exodia-OS/.github/blob/c349a90d0999a8e57a9ef7dfd6a1d916779c5afb/profile/img/free-palestine.png" height="200" width="200" alt="free-palestine"></a>
-  <a href="https://exodia-os.github.io/exodia-website/"><img src="https://github.com/Exodia-OS/.github/blob/e1ab4df119651217467731aef92f97226d5c193a/profile/GIFs/logos.gif" height="200" width="200" alt="Exodia"></a>
+  <a href="https://exodia-os.github.io/exodia-website/"><img src="https://github.com/Exodia-OS/.github/blob/ba24a62f1c03cc36dcf72b2aa46b9d7089257971/profile/GIFs/logos.gif" height="200" width="200" alt="Exodia"></a>
 </p>
 
 <!-- LOGO -->
