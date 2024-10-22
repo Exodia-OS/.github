@@ -1,25 +1,9 @@
 <h1 align="center"> We stand with Palestine ❤️ Free Palestine 🇵🇸 </h1>
 <!-- LOGO -->
 
-Blessed Leader Yahya Sinwar,<br/>
-You died heroically fighting against terrorism and defending our sacred land, just like the brave warriors before you, despite your advanced age. <br/>
-
-You gave your life on the battlefield alongside our brothers, not as the Israeli media falsely claims—that you were hiding underground, protecting yourself while sacrificing the innocent.<br/>
-
-We are incredibly proud of you and your unwavering dedication to our sacred cause.<br/>
-
-May God have mercy on you, our heroic martyr leader. Inshallah.<br/>
-
-Free Palestine 🇵🇸<br/>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0091f078-bc92-4766-b556-34bbead97706" height="200" width="200" alt="Yahya Sinwar"></a>
-  <img src="https://github.com/user-attachments/assets/014a5bc3-a595-47f5-ba6c-de3499682e41" height="200" width="200" alt="Yahya Sinwar"></a>
-</p>
-
-
-<p align="center">
-  <a href="https://exodia-os.github.io/exodia-website/"><img src="https://github.com/Exodia-OS/.github/blob/c349a90d0999a8e57a9ef7dfd6a1d916779c5afb/profile/img/free-palestine.png" height="200" width="200" alt="free-palestine"></a>
+<!--   <a href="https://exodia-os.github.io/exodia-website/"><img src="https://github.com/Exodia-OS/.github/blob/c349a90d0999a8e57a9ef7dfd6a1d916779c5afb/profile/img/free-palestine.png" height="200" width="200" alt="free-palestine"></a> -->
   <a href="https://exodia-os.github.io/exodia-website/"><img src="https://github.com/Exodia-OS/.github/blob/ba24a62f1c03cc36dcf72b2aa46b9d7089257971/profile/GIFs/logos.gif" height="200" width="200" alt="Exodia"></a>
 </p>
 
