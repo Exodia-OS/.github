@@ -1,6 +1,4 @@
-<h1 align="center"> We stand with Palestine ❤️ Free Palestine 🇵🇸 </h1>
 <!-- LOGO -->
-
 
 <p align="center">
 <!--   <a href="https://exodia-os.github.io/exodia-website/"><img src="https://github.com/Exodia-OS/.github/blob/c349a90d0999a8e57a9ef7dfd6a1d916779c5afb/profile/img/free-palestine.png" height="200" width="200" alt="free-palestine"></a> -->
@@ -8,6 +6,8 @@
 </p>
 
 <!-- LOGO -->
+
+<h3 align="center"> FP 🇵🇸 </h13>
 
 <p align="center">
   <a href="https://ko-fi.com/mmsaeed509" target="_blank"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--Fi-0DBBFF?style=flat&logo=kofi&logoColor=FFFFFF"></a>
